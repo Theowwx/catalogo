@@ -1,9 +1,12 @@
 body{
-background-color: lavender;
-color: lightgray;
+background-color: rgb(62, 62, 192);
+color: rgb(243, 9, 9);
 margin: 0px;
 }
 
 header{
     border-bottom: solid 2px red;
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(243, 9, 9);
 }
